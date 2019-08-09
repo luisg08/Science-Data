@@ -1,0 +1,11 @@
+"Nome da variável" <- read.csv("caminho do arquivo .csv")
+
+view("Nome da variável")
+
+summary("nome da variável")
+
+head("nome da variável")
+
+tail("nome da variável")
+
+str("nome da variável")
